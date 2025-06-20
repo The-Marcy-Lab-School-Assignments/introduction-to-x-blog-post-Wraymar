@@ -1,10 +1,8 @@
-# Blog Title
+# The Last ‘useState’ Explanation You’ll Ever Need!
 
 By Tyreese Wray
 
-The Last ‘useState’ Explanation You’ll Ever Need!
-
-## Introduction
+##
 
 React is one of the most popular JavaScript libraries for building user interfaces. But in this post, we’re not going to focus on everything React can do—we’re going to zero in on one of the most powerful (and sometimes confusing) features: `useState`.
 
