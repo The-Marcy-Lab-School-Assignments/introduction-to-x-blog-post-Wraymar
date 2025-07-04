@@ -27,7 +27,11 @@ import { useState } from "react";
 Then call it inside a component:
 
 ```jsx
-const [data, setData] = useState("default value");
+function yourComponent() {
+  const [data, setData] = useState("default value");
+}
+
+return ()
 ```
 
 This line gives you two things: `data`, which holds your current state, and `setData`, which lets you update it.
